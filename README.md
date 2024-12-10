@@ -1,5 +1,6 @@
-1. We are given two arrays that represent the arrival and departure time of trains.The task is to find the minimum number of platforms requires so that no train need to wait.
-   import java.util.Arrays;
+We are given two arrays that represent the arrival and departure time of trains.The task is to find the minimum number of platforms requires so that no train need to wait.
+
+import java.util.Arrays;
 
  class Main {
     public static int findMinPlatforms(int[] arrival, int[] departure) {
